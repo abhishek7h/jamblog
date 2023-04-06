@@ -13,9 +13,9 @@
   --fw-900: 900;
 
   --clr-primary-200: hsla(169, 70%, 95%, 1);
-  --clr-primary-300: hsla(169, 100%, 39%, 1);
-  --clr-primary-400: hsla(169, 100%, 26%, 1);
-  --clr-primary-500: hsla(169, 100%, 16%, 1);
+  --clr-primary-300: #003fc7;
+  --clr-primary-400: rgb(244, 6, 6);
+  --clr-primary-500: rgb(0, 0, 0);
 
   --clr-neutral-100: hsla(0, 0%, 100%, 1);
   --clr-neutral-300: hsla(0, 0%, 50%, 1);
@@ -142,8 +142,6 @@ section,
   padding: min(10vh, 10em) 0;
 }
 
-
-
 /* //////////////////////
   Utility Classes
   /////////////////////// */
@@ -190,7 +188,6 @@ section,
 .section-title {
   font-size: var(--fs-600);
 }
-
 
 /* //////////////////////
   Header
@@ -270,15 +267,15 @@ section,
   Individual article page
   /////////////////////// */
 
-  .main-article {
-    margin-bottom: 3rem;
-  }
+.main-article {
+  margin-bottom: 3rem;
+}
 
-  .main-article__figure figcaption {
-    margin: 1rem 0;
-    font-size: var(--fs-300);
-    opacity: .9;
-  }
+.main-article__figure figcaption {
+  margin: 1rem 0;
+  font-size: var(--fs-300);
+  opacity: 0.9;
+}
 
 /* //////////////////////
   Article snippets
@@ -330,7 +327,7 @@ section,
 .snippet__title a:hover,
 .snippet__title a:focus {
   color: var(--clr-primary-500);
-} 
+}
 
 @media (min-width: 45em) {
   .snippet {
@@ -370,7 +367,7 @@ section,
 .btn--primary:hover,
 .btn--primary:focus {
   background: var(--clr-primary-500);
-  border-color: var(--clr-primary-500); 
+  border-color: var(--clr-primary-500);
 }
 
 .btn--neutral {
