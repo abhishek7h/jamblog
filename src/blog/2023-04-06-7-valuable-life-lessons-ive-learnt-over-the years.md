@@ -2,7 +2,7 @@
 title: 7 Valuable Life Lessons I've Learnt Over The Years
 description: Life lessons I learnt from experience.
 author: Abhishek H
-date: 2023-04-06T15:48:37.745Z
+date: 2023-02-02T15:48:00.000Z
 tags:
   - post
 image: https://miro.medium.com/v2/resize:fit:1400/0*HiTVprQ8mBS8hREM
