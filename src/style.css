@@ -6,7 +6,7 @@
   --fs-700: 2rem;
 
   --ff-body: "Roboto", sans-serif;
-  --ff-heading: "Playfair Display", serif;
+  --ff-heading: "Playfair Display", monospace;
 
   --fw-400: 400;
   --fw-700: 700;
@@ -14,7 +14,7 @@
 
   --clr-primary-200: hsla(169, 70%, 95%, 1);
   --clr-primary-300: #003fc7;
-  --clr-primary-400: rgb(244, 6, 6);
+  --clr-primary-400: #f40606;
   --clr-primary-500: rgb(0, 0, 0);
 
   --clr-neutral-100: hsla(0, 0%, 100%, 1);
@@ -382,3 +382,35 @@ section,
   color: var(--clr-neutral-100);
   background-color: var(--clr-neutral-900);
 }
+
+/* Strong {
+  position: relative;
+
+  &::after {
+    content: "";
+    position: absolute;
+    bottom: -0.125rem;
+    left: -0.5rem;
+    right: -0.5rem;
+    height: 0.75rem;
+
+    z-index: -1;
+
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/664131/underline.svg");
+    background-repeat: no-repeat;
+
+    background-size: cover;
+  }
+}
+
+p > strong {
+  font-weight: 400;
+
+  &::after {
+    // Specific positioning for smaller text
+    bottom: -0.2rem;
+    height: 0.5rem;
+    left: -0.25rem;
+    right: -0.25rem;
+  }
+} */
