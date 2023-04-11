@@ -1,5 +1,5 @@
 ---
-title: ChatGPT — The Good and The Bad
+title: ChatGPT - The Good and The Bad
 description: The AI Chat-Bot That Went Trending
 author: Abhishek H
 date: 2023-02-22T15:50:09.966Z
