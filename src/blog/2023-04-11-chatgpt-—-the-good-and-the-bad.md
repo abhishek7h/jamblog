@@ -13,11 +13,7 @@ imageAlt: Photo by Zac Wolff on Unsplash
 
 30 November 2022.
 
-OpenAI launched ChatGPT. Since then, it took the internet by storm. By December 2022, it had over a million users. People are talking about it all over social media. There are even moments still where it’s down because it’s at capacity.
-
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F328b64b6-2d56-441b-a578-ada43705f6b7_800x533.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F328b64b6-2d56-441b-a578-ada43705f6b7_800x533.jpeg)
-
-Photo by [Zac Wolff](https://unsplash.com/@zacwolff?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
+OpenAI launched ChatGPT. Since then, it took the internet by storm. By December 2022, it had over a million users. People are talking about it all over social media. There are even moments still where it’s down because it’s at capacity
 
 ### The Good
 
